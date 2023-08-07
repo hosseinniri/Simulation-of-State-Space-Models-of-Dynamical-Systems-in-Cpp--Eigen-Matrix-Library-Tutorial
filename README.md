@@ -14,7 +14,7 @@ The member functions of the developed class "SimulateSystem" can load and store 
 ## Description of files:
 - SimulateSystem.h - the class header file 
 - SimulateSystem.cpp -the class implementation file 
-- ConsoleApplication11.cpp - the driver code
+- main.cpp - the driver code
 - main.m - is the MATLAB file used to generate the matrices that are used by the driver code
 - comparions.m  - is the MATLAB file used to compare the C++ simulation results with the MATLAB simulation
 - makefile used to compile c++ project code with make command
